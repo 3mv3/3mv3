@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋 Matt here
 
 <!--
 **3mv3/3mv3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="left">
+:pizza: Main stack: C#, ASP.NET, React<br>
+:fries: Sidechicks: Knockout, JQuery, Blazor, Powershell, WinForms<br>
+:syringe: Testing: NUnit, Moq, AutoFixture, WireMock NET<br>
+:postbox: API: REST, SOAP, MVC, Postman / Newman<br>
+:satellite: CI: TeamCity<br>
+:chart_with_upwards_trend: DB: MySQL, EF<br>
+</p>
