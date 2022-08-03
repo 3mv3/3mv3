@@ -1,5 +1,5 @@
 ### Hi 👋 Matt here
-
+---
 <!--
 **3mv3/3mv3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,11 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="left">
-:pizza: Main stack: C#, ASP.NET, React<br>
-:fries: Sidechicks: Knockout, JQuery, Blazor, Powershell, WinForms<br>
-:syringe: Testing: NUnit, Moq, AutoFixture, WireMock NET<br>
-:postbox: API: REST, SOAP, MVC, Postman / Newman<br>
-:satellite: CI: TeamCity<br>
-:chart_with_upwards_trend: DB: MySQL, EF<br>
-</p>
+
+- :pizza: Main stack: C#, ASP.NET, React<br>
+- :fries: Sidechicks: Knockout, JQuery, Blazor, SignalR, Powershell, WinForms<br>
+- :syringe: Testing: NUnit, Moq, AutoFixture, WireMock NET<br>
+- :mailbox_with_mail: API: REST, SOAP, MVC, Postman / Newman<br>
+- :satellite: CI: TeamCity<br>
+- :chart_with_upwards_trend: DB: MySQL, EF<br>
+---
+- 🔭 I’m currently working on establishing my online presence, please reach out :wave:
+- 🌱 I’m currently implementing [WireMock NET](https://github.com/WireMock-Net/WireMock.Net) to improve existing test suites, and learning Blazor / SignalR  
+
+<!--
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3mv3&layout=compact&hide=html" alt="3mv3" />
+-->
