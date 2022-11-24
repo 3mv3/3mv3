@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 - :chart_with_upwards_trend: DB: MySQL, EF<br>
 ---
 - 🔭 I’m currently working on establishing my online presence, please reach out :wave:
-- 🌱 I’m currently implementing [WireMock NET](https://github.com/WireMock-Net/WireMock.Net) to improve existing test suites, and learning Blazor / SignalR  
 
 <!--
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3mv3&layout=compact&hide=html" alt="3mv3" />
