@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 
 - :pizza: Main stack: C#, ASP.NET, React Native, TypeScript<br>
-- :fries: Interests: Roslyn, AWS, JQuery, Blazor, React, Powershell, WinForms<br>
-- :syringe: Testing: NUnit, Moq, AutoFixture, WireMock NET, Elasticsearch / kibana, DataDog<br>
+- :fries: Interests: AWS, Kotlin, Android, JavaScript, Powershell, WinForms<br>
+- :syringe: Testing: NUnit, Moq, AutoFixture, WireMock NET, Elasticsearch / kibana, DataDog, JEST, Appium<br>
 - :mailbox_with_mail: API: REST, SOAP, MVC, Postman<br>
 - :satellite: CI: GitHub Actions, TeamCity<br>
 - :chart_with_upwards_trend: DB: MySQL, EF, Dapper<br>
