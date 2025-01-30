@@ -11,17 +11,18 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
 
 
 - :pizza: Main stack: C#, ASP.NET, React Native, TypeScript<br>
-- :fries: Interests: AWS, Kotlin, Android, JavaScript, Powershell, WinForms<br>
+- :fries: Interests: AWS, Kotlin, Android, JavaScript, Powershell, Electron<br>
 - :syringe: Testing: NUnit, Moq, AutoFixture, WireMock NET, Elasticsearch / kibana, DataDog, JEST, Appium<br>
 - :mailbox_with_mail: API: REST, SOAP, MVC, Postman<br>
-- :satellite: CI: GitHub Actions, TeamCity<br>
-- :chart_with_upwards_trend: DB: MySQL, EF, Dapper<br>
+- 💌 Events: RabbitMQ
+- ⛰️ IAC: Terraform
+- :satellite: CI/CD: GitHub Actions, TeamCity<br>
+- :chart_with_upwards_trend: DB: MySQL, EF, Dapper, Postgres, Mongo<br>
 ---
 - 🔭 I’m currently working on establishing my online presence, please reach out :wave:
 
